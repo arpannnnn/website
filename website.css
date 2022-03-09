@@ -143,7 +143,7 @@ transition: all 0.3s ease;
      position:absolute;
      bottom:0px;
      left:50%;
-     width:180px;
+     width:240px;
      height:3px;
      background:black;
      transform:translateX(-50%)
@@ -157,6 +157,15 @@ transition: all 0.3s ease;
     padding:5px;
      background:white;
      transform:translateX(-50%)
+ }
+ .services{
+   background: aquamarine;
+ }
+ .hp{
+   background: grey;
+ }
+ .contact{
+   background: orange;
  }
 
 
@@ -325,7 +334,7 @@ transition: all 0.3s ease;
 	margin:20px 0px;
 }
 .hp-box h3{
-	background: black;
+	background: #d0c6a8c7;
 	color: white;
 	padding: 10px;
 }
